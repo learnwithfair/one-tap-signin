@@ -153,4 +153,4 @@ This ensures both One Tap and the Sign-In button use your own credentials.
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
 [instagram-url]: https://instagram.com/learnwithfair
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithfair
+[linkedin-url]: https://www.linkedin.com/in/rahatul-rabbi/
